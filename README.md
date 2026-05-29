@@ -83,12 +83,15 @@ Handles 500+ concurrent connections via low-level socket programming; 20% less r
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prerit-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerit-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prerit-07&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prerit-07&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prerit-07&theme=tokyonight" />
+
+</div>
 
 ---
 
